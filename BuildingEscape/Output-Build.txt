@@ -1,0 +1,12 @@
+﻿1>------ Build started: Project: BuildingEscape, Configuration: Development_Editor x64 ------
+1>  Creating makefile for hot reloading BuildingEscapeEditor (working set of source files changed)
+1>  Compiling game modules for hot reload
+1>  Parsing headers for BuildingEscapeEditor
+1>    Running UnrealHeaderTool "J:\Unreal Projects\Repos\01_BuildingEscape\BuildingEscape\BuildingEscape.uproject" "J:\Unreal Projects\Repos\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+1>  Reflection code generated for BuildingEscapeEditor in 5.199514 seconds
+1>  Performing 2 actions (4 in parallel)
+1>  OpenDoor.cpp
+1>  [2/2] Link UE4Editor-BuildingEscape-5482.dll
+1>     Creating library J:\Unreal Projects\Repos\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-5482.lib and object J:\Unreal Projects\Repos\01_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-5482.exp
+1>  Total build time: 13.09 seconds
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
